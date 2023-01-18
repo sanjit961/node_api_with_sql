@@ -1,26 +1,37 @@
-# REST API created with NodeJs using MYSQL DATABASE #
+# REST API created with NodeJs using MYSQL DATABASE
 
-## HOW TO INSTALL THE APP ##
+## HOW TO INSTALL THE APP
+
 ```
 npm install
 ```
-## HOW TO RUN THE APP ##
+
+## HOW TO RUN THE APP
+
 ```
 npm start
 ```
-## TECHNOLOGY USED ##
+
+## TECHNOLOGY USED
+
 - Express
 - Swagger-ui-express
 - Sql
 - nodemon
 
-*Thank you*
+_Thank you_
 
-## This is test Table ##
+## This is test Table
 
-Header One | Header Two
------------|-----------
-Test 1     | Test 2
-Test 3     | Test 4
+| Header One | Header Two |
+| ---------- | ---------- |
+| Test 1     | Test 2     |
+| Test 3     | Test 4     |
 
-***This is just a testing for approval***
+**_Todo_**
+
+- **_Add Pagination and limit_**
+- **_Add Registration_**
+- **_Add Login_**
+- **_Add Logout_**
+- **_Generate Token_**
